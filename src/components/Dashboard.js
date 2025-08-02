@@ -4,7 +4,7 @@ function Dashboard() {
   const [internData, setInternData] = useState(null);
 
   useEffect(() => {
-    fetch('http://localhost:5000/api/intern')
+    fetch('https://intern-portal-backend-gjjs.onrender.com/api/intern')
       .then(res => res.json())
       .then(data => setInternData(data));
   }, []);
