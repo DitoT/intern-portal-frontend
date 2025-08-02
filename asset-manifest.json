@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/intern-portal-frontend/static/css/main.ba4a8510.css",
+    "main.js": "/intern-portal-frontend/static/js/main.a15a22d5.js",
+    "static/js/453.670e15c7.chunk.js": "/intern-portal-frontend/static/js/453.670e15c7.chunk.js",
+    "index.html": "/intern-portal-frontend/index.html",
+    "main.ba4a8510.css.map": "/intern-portal-frontend/static/css/main.ba4a8510.css.map",
+    "main.a15a22d5.js.map": "/intern-portal-frontend/static/js/main.a15a22d5.js.map",
+    "453.670e15c7.chunk.js.map": "/intern-portal-frontend/static/js/453.670e15c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba4a8510.css",
+    "static/js/main.a15a22d5.js"
+  ]
+}
