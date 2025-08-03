@@ -4,7 +4,7 @@ function Leaderboard() {
   const [leaders, setLeaders] = useState([]);
 
   useEffect(() => {
-    fetch('http://localhost:5000/api/leaderboard')
+    fetch('https://intern-portal-backend-gjjs.onrender.com/api/leaderboard')
       .then(res => res.json())
       .then(data => setLeaders(data));
   }, []);
